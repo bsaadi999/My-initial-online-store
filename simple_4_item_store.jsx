@@ -2,9 +2,9 @@ import { useState } from "react";
 
 const products = [
   { id: 1, name: "Boots", price: 25, image: "https://via.placeholder.com/300" },
-  { id: 2, name: "Item Two", price: 30, image: "https://via.placeholder.com/300" },
-  { id: 3, name: "Item Three", price: 40, image: "https://via.placeholder.com/300" },
-  { id: 4, name: "Item Four", price: 50, image: "https://via.placeholder.com/300" }
+  { id: 2, name: "Crafts", price: 30, image: "https://via.placeholder.com/300" },
+  { id: 3, name: "Souvenirs", price: 40, image: "https://via.placeholder.com/300" },
+  { id: 4, name: "Cosmetics", price: 50, image: "https://via.placeholder.com/300" }
 ];
 
 export default function Store() {
